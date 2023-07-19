@@ -1,2 +1,1 @@
-# pizza-main
-Pizza project
+# pizza
